@@ -17,6 +17,6 @@ Publications
 ==========
 - Blockchain <br>
   Liu J, **Zhang B**, Wu D, et al. A Secure and Large-Scale Multiparty Conditional Payment Scheme based on Blockchain[C]//2022 4th International Conference on Data Intelligence and Security (ICDIS). IEEE, 2022: 200-207. 
-- Digital signature <br>
+- Digital Signature <br>
   Liu J, Wen J, **Zhang B**, et al. A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things[J]. Future Generation Computer Systems, 2023, 141: 663-676.
 
