@@ -1,3 +1,10 @@
+---
+title: 'Notes on Efficient implementation of ECC'
+date: 2024-02-15
+permalink: /posts/2024/02/blog-post-1/
+tags:
+  - ECC
+---
 ## Sandy2x: New Record on Curve 25519
 We define Curve25519 as a function that maps two 32-byte input string to a 32-byte output string. The function can be viewed as a x-coordinate only scalar multiplication on the curve 
 $$ E_M : y^2 = x^3 + 486662x^2 + x $$
