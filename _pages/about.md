@@ -28,3 +28,5 @@ MISC
 - I am very interested in the mysticism (metaphysics) of traditional Chinese culture. I have been studying 小六壬 and 六爻 for more than one year. These are prediction methods based on random numbers, which is said to be capable of forecasting future events (very similar to Tarot card but more complex and more powerful).
 
 - I am currently learning French. Hope I can achieve A2 in year 2024.
+
+- I started my new journey in 梅花易数.
