@@ -10,11 +10,9 @@ redirect_from:
 About me
 ========
 - Hello, I am Bowen Zhang.
-- I am currently a master student at [Department of Computer Science](https://www.uni.lu/fstm-en/research-departments/department-of-computer-science/), [University of Luxembourg](https://www.uni.lu/en/).
+- I am currently a second year master student at [Department of Computer Science](https://www.uni.lu/fstm-en/research-departments/department-of-computer-science/), [University of Luxembourg](https://www.uni.lu/en/).
 - From 2018 to 2022, I am a bachelor student at [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). Now I am very fortunate to be supervised by [Dr. Hao CHENG](https://haoche.ng/) and [Dr. Johann GROSZSCHÄDL](https://www.uni.lu/en/person/NTAwMDE5MDBfX0pvaGFubiBHUk9TWlNDSMOEREw=/) of APSIA group from [SnT](https://www.uni.lu/snt-en/).
-
-- My research interest includes Applied Cryptography, with a history of working on blockchain technology and digital signature. Currently, my primary focus is on the efficient implementation of Elliptic Curve Cryptography, exploring innovative techniques to enhance its performance and security.
-  
+    
 Research interest
 ========
 - Efficient cryptographic implementation
