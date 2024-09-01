@@ -12,7 +12,7 @@ About me
 Hello, I am Bowen Zhang.
 
 
-I am currently a second year master student at <a href="https://www.uni.lu/fstm-en/research-departments/department-of-computer-science/" style="text-decoration:none;">Department of Computer Science</a>
+I am currently a second year master student at <a href="https://www.uni.lu/fstm-en/research-departments/department-of-computer-science/" style="color:black;">Department of Computer Science</a>
 , [University of Luxembourg](https://www.uni.lu/en/).
 
 
