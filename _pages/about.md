@@ -14,8 +14,9 @@ Hello, I am Bowen Zhang.
 
 I am currently a second year master student at Department of Computer Science, <a href="https://www.uni.lu/en/" style="text-decoration:none;">University of Luxembourg</a>.
 
+From 2018 to 2022, I was a bachelor student at <a href="https://en.nwpu.edu.cn/" style="text-decoration:none;">Northwestern Polytechnical University</a>. 
 
-From 2018 to 2022, I was a bachelor student at <a href="https://en.nwpu.edu.cn/" style="text-decoration:none;">Northwestern Polytechnical University</a>. Now I am very fortunate to be supervised by <a href="https://haoche.ng/" style="text-decoration:none;">Dr. Hao CHENG</a> and <a href="https://www.uni.lu/en/person/NTAwMDE5MDBfX0pvaGFubiBHUk9TWlNDSMOEREw=/" style="text-decoration:none;">Dr. Johann GROSZSCHÄDL</a> of APSIA group from <a href="https://www.uni.lu/snt-en/" style="text-decoration:none;">SnT</a>.
+From 2023 to 2024, I was a research assistant at APSIA group, <a href="https://www.uni.lu/snt-en/" style="text-decoration:none;">SnT</a>, and was very fortunate to be supervised by <a href="https://haoche.ng/" style="text-decoration:none;">Dr. Hao CHENG</a> and <a href="https://www.uni.lu/en/person/NTAwMDE5MDBfX0pvaGFubiBHUk9TWlNDSMOEREw=/" style="text-decoration:none;">Dr. Johann GROSZSCHÄDL</a>.
 
 
 Research interest
