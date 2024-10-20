@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Blog on Bowen Zhang</title>
-    <link>//localhost:1313/tags/technology-blog/</link>
+    <link>http://localhost:1313/tags/technology-blog/</link>
     <description>Recent content in Technology Blog on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <atom:link href="//localhost:1313/tags/technology-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>deepumohan.com/tech</title>
-      <link>//localhost:1313/users/deepumohan.com-tech/</link>
+      <link>http://localhost:1313/users/deepumohan.com-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/deepumohan.com-tech/</guid>
+      <guid>http://localhost:1313/users/deepumohan.com-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/deepumohan.com-tech/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/deepumohan.com-tech/feature.jpg" />
     </item>
     
     <item>
       <title>MEM v ENNBEE</title>
-      <link>//localhost:1313/users/mem-v-ennbee/</link>
+      <link>http://localhost:1313/users/mem-v-ennbee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mem-v-ennbee/</guid>
+      <guid>http://localhost:1313/users/mem-v-ennbee/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mem-v-ennbee/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mem-v-ennbee/feature.jpg" />
     </item>
     
     <item>
       <title>UmmIt - Blog</title>
-      <link>//localhost:1313/users/ummit---blog/</link>
+      <link>http://localhost:1313/users/ummit---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ummit---blog/</guid>
+      <guid>http://localhost:1313/users/ummit---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ummit---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ummit---blog/feature.jpg" />
     </item>
     
     <item>
       <title>Jinbo Pan - Blog</title>
-      <link>//localhost:1313/users/jinbo-pan---blog/</link>
+      <link>http://localhost:1313/users/jinbo-pan---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jinbo-pan---blog/</guid>
+      <guid>http://localhost:1313/users/jinbo-pan---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jinbo-pan---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jinbo-pan---blog/feature.jpg" />
     </item>
     
   </channel>

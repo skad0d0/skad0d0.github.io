@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latin on Bowen Zhang</title>
-    <link>//localhost:1313/tags/latin/</link>
+    <link>http://localhost:1313/tags/latin/</link>
     <description>Recent content in Latin on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/latin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/latin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>//localhost:1313/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>

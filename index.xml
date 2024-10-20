@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Blowfish! :tada: on Bowen Zhang</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to Blowfish! :tada: on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>n9o.xyz</title>
-      <link>//localhost:1313/users/n9o.xyz/</link>
+      <link>http://localhost:1313/users/n9o.xyz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/n9o.xyz/</guid>
+      <guid>http://localhost:1313/users/n9o.xyz/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/n9o.xyz/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/n9o.xyz/feature.jpg" />
     </item>
     
     <item>
       <title>Welcome to Blowfish</title>
-      <link>//localhost:1313/docs/welcome/</link>
+      <link>http://localhost:1313/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/welcome/</guid>
+      <guid>http://localhost:1313/docs/welcome/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish is packed with tons of features.
 &lt;/div&gt;
 
 &lt;p&gt;The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; and expands its initial vision.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/welcome/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
     </item>
     
     <item>
       <title>Installation</title>
-      <link>//localhost:1313/docs/installation/</link>
+      <link>http://localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/installation/</guid>
+      <guid>http://localhost:1313/docs/installation/</guid>
       <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;
 &lt;p&gt;Detailed installation instructions can be found below. Instructions for &lt;a href=&#34;#installing-updates&#34;&gt;updating the theme&lt;/a&gt; are also available.&lt;/p&gt;
 
@@ -55,15 +55,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>//localhost:1313/docs/getting-started/</link>
+      <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/getting-started/</guid>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -87,7 +87,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;This section assumes you have already &lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;installed the Blowfish theme&lt;/a&gt;.&lt;/span&gt;
+    &gt;This section assumes you have already &lt;a href=&#34;http://localhost:1313/docs/installation/&#34; target=&#34;_blank&#34;&gt;installed the Blowfish theme&lt;/a&gt;.&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -120,36 +120,36 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
     </item>
     
     <item>
       <title>Configuration</title>
-      <link>//localhost:1313/docs/configuration/</link>
+      <link>http://localhost:1313/docs/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/configuration/</guid>
+      <guid>http://localhost:1313/docs/configuration/</guid>
       <description>&lt;p&gt;Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.&lt;/p&gt;
 &lt;p&gt;The theme ships with a default configuration that gets you up and running with a basic blog or static website.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/configuration/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
     </item>
     
     <item>
       <title>Homepage Layout</title>
-      <link>//localhost:1313/docs/homepage-layout/</link>
+      <link>http://localhost:1313/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/homepage-layout/</guid>
+      <guid>http://localhost:1313/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish provides a fully flexible homepage layout. There are two main templates to choose from with additional settings to adjust the design. Alternatively, you can also provide your own template and have complete control over the homepage content.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>//localhost:1313/docs/shortcodes/</link>
+      <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/shortcodes/</guid>
+      <guid>http://localhost:1313/docs/shortcodes/</guid>
       <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;
 
 
@@ -164,35 +164,35 @@
     
 &lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;alert&lt;/code&gt; outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/shortcodes/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>//localhost:1313/docs/front-matter/</link>
+      <link>http://localhost:1313/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/front-matter/</guid>
+      <guid>http://localhost:1313/docs/front-matter/</guid>
       <description>&lt;p&gt;In addition to the &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34; target=&#34;_blank&#34;&gt;default Hugo front matter parameters&lt;/a&gt;, Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/front-matter/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>//localhost:1313/docs/multi-author/</link>
+      <link>http://localhost:1313/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/multi-author/</guid>
+      <guid>http://localhost:1313/docs/multi-author/</guid>
       <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/multi-author/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
     </item>
     
     <item>
       <title>Partials</title>
-      <link>//localhost:1313/docs/partials/</link>
+      <link>http://localhost:1313/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/partials/</guid>
+      <guid>http://localhost:1313/docs/partials/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics 
     &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -204,15 +204,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Blowfish provides built-in support for Fathom Analytics, Google Analytics and Umami Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/partials/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>//localhost:1313/docs/thumbnails/</link>
+      <link>http://localhost:1313/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/thumbnails/</guid>
+      <guid>http://localhost:1313/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thumbnails 
     &lt;div id=&#34;thumbnails&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -224,1308 +224,1308 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend &lt;code&gt;.png&lt;/code&gt; or &lt;code&gt;.jpg&lt;/code&gt;) that starts with &lt;code&gt;feature*&lt;/code&gt; inside your article&amp;rsquo;s main directory, as shown in the example below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/thumbnails/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
     </item>
     
     <item>
       <title>Content Examples</title>
-      <link>//localhost:1313/docs/content-examples/</link>
+      <link>http://localhost:1313/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/content-examples/</guid>
+      <guid>http://localhost:1313/docs/content-examples/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/content-examples/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
     </item>
     
     <item>
       <title>madoke.org</title>
-      <link>//localhost:1313/users/madoke.org/</link>
+      <link>http://localhost:1313/users/madoke.org/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/madoke.org/</guid>
+      <guid>http://localhost:1313/users/madoke.org/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/madoke.org/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/madoke.org/feature.jpg" />
     </item>
     
     <item>
       <title>Series</title>
-      <link>//localhost:1313/docs/series/</link>
+      <link>http://localhost:1313/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/series/</guid>
+      <guid>http://localhost:1313/docs/series/</guid>
       <description>&lt;p&gt;Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/series/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
     </item>
     
     <item>
       <title>Advanced Customisation</title>
-      <link>//localhost:1313/docs/advanced-customisation/</link>
+      <link>http://localhost:1313/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/advanced-customisation/</guid>
+      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>Hosting &amp; Deployment</title>
-      <link>//localhost:1313/docs/hosting-deployment/</link>
+      <link>http://localhost:1313/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/hosting-deployment/</guid>
+      <guid>http://localhost:1313/docs/hosting-deployment/</guid>
       <description>&lt;p&gt;There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.&lt;/p&gt;
 &lt;p&gt;Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There&amp;rsquo;s usually no special configuration required for this to work as long as the &lt;code&gt;baseURL&lt;/code&gt; parameter has been configured in the &lt;code&gt;config.toml&lt;/code&gt; file.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/hosting-deployment/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
     </item>
     
     <item>
       <title>Firebase: Views &amp; Likes</title>
-      <link>//localhost:1313/docs/firebase-views/</link>
+      <link>http://localhost:1313/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/firebase-views/</guid>
+      <guid>http://localhost:1313/docs/firebase-views/</guid>
       <description>&lt;p&gt;In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/firebase-views/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
     </item>
     
     <item>
       <title>code-chimp.com</title>
-      <link>//localhost:1313/users/code-chimp.com/</link>
+      <link>http://localhost:1313/users/code-chimp.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/code-chimp.com/</guid>
+      <guid>http://localhost:1313/users/code-chimp.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/code-chimp.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/code-chimp.com/feature.jpg" />
     </item>
     
     <item>
       <title>mucahitkurtlar.github.io</title>
-      <link>//localhost:1313/users/mucahitkurtlar.github.io/</link>
+      <link>http://localhost:1313/users/mucahitkurtlar.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mucahitkurtlar.github.io/</guid>
+      <guid>http://localhost:1313/users/mucahitkurtlar.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mucahitkurtlar.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mucahitkurtlar.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>brendanwallace.github.io</title>
-      <link>//localhost:1313/users/brendanwallace.github.io/</link>
+      <link>http://localhost:1313/users/brendanwallace.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/brendanwallace.github.io/</guid>
+      <guid>http://localhost:1313/users/brendanwallace.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/brendanwallace.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/brendanwallace.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>cuttontail.blog</title>
-      <link>//localhost:1313/users/cuttontail.blog/</link>
+      <link>http://localhost:1313/users/cuttontail.blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/cuttontail.blog/</guid>
+      <guid>http://localhost:1313/users/cuttontail.blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/cuttontail.blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/cuttontail.blog/feature.jpg" />
     </item>
     
     <item>
       <title>pmnxis.github.io</title>
-      <link>//localhost:1313/users/pmnxis.github.io/</link>
+      <link>http://localhost:1313/users/pmnxis.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/pmnxis.github.io/</guid>
+      <guid>http://localhost:1313/users/pmnxis.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/pmnxis.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/pmnxis.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>ciicadalab.github.io</title>
-      <link>//localhost:1313/users/ciicadalab.github.io/</link>
+      <link>http://localhost:1313/users/ciicadalab.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ciicadalab.github.io/</guid>
+      <guid>http://localhost:1313/users/ciicadalab.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ciicadalab.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ciicadalab.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>georgiancodeclub.github.io</title>
-      <link>//localhost:1313/users/georgiancodeclub.github.io/</link>
+      <link>http://localhost:1313/users/georgiancodeclub.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/georgiancodeclub.github.io/</guid>
+      <guid>http://localhost:1313/users/georgiancodeclub.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/georgiancodeclub.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/georgiancodeclub.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>albertolvera.com</title>
-      <link>//localhost:1313/users/albertolvera.com/</link>
+      <link>http://localhost:1313/users/albertolvera.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/albertolvera.com/</guid>
+      <guid>http://localhost:1313/users/albertolvera.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/albertolvera.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/albertolvera.com/feature.jpg" />
     </item>
     
     <item>
       <title>fahru.my.id</title>
-      <link>//localhost:1313/users/fahru.my.id/</link>
+      <link>http://localhost:1313/users/fahru.my.id/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/fahru.my.id/</guid>
+      <guid>http://localhost:1313/users/fahru.my.id/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/fahru.my.id/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/fahru.my.id/feature.jpg" />
     </item>
     
     <item>
       <title>loisvelasco.is-a.dev</title>
-      <link>//localhost:1313/users/loisvelasco.is-a.dev/</link>
+      <link>http://localhost:1313/users/loisvelasco.is-a.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/loisvelasco.is-a.dev/</guid>
+      <guid>http://localhost:1313/users/loisvelasco.is-a.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/loisvelasco.is-a.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/loisvelasco.is-a.dev/feature.jpg" />
     </item>
     
     <item>
       <title>omarohn.de</title>
-      <link>//localhost:1313/users/omarohn.de/</link>
+      <link>http://localhost:1313/users/omarohn.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/omarohn.de/</guid>
+      <guid>http://localhost:1313/users/omarohn.de/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/omarohn.de/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/omarohn.de/feature.jpg" />
     </item>
     
     <item>
       <title>insidemordecai.com</title>
-      <link>//localhost:1313/users/insidemordecai.com/</link>
+      <link>http://localhost:1313/users/insidemordecai.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/insidemordecai.com/</guid>
+      <guid>http://localhost:1313/users/insidemordecai.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/insidemordecai.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/insidemordecai.com/feature.jpg" />
     </item>
     
     <item>
       <title>blastomussa.dev</title>
-      <link>//localhost:1313/users/blastomussa.dev/</link>
+      <link>http://localhost:1313/users/blastomussa.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/blastomussa.dev/</guid>
+      <guid>http://localhost:1313/users/blastomussa.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/blastomussa.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/blastomussa.dev/feature.jpg" />
     </item>
     
     <item>
       <title>cdell.io</title>
-      <link>//localhost:1313/users/cdell.io/</link>
+      <link>http://localhost:1313/users/cdell.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/cdell.io/</guid>
+      <guid>http://localhost:1313/users/cdell.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/cdell.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/cdell.io/feature.jpg" />
     </item>
     
     <item>
       <title>jam.dsg.li</title>
-      <link>//localhost:1313/users/jam.dsg.li/</link>
+      <link>http://localhost:1313/users/jam.dsg.li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jam.dsg.li/</guid>
+      <guid>http://localhost:1313/users/jam.dsg.li/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jam.dsg.li/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jam.dsg.li/feature.jpg" />
     </item>
     
     <item>
       <title>priyakdey.com</title>
-      <link>//localhost:1313/users/priyakdey.com/</link>
+      <link>http://localhost:1313/users/priyakdey.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/priyakdey.com/</guid>
+      <guid>http://localhost:1313/users/priyakdey.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/priyakdey.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/priyakdey.com/feature.jpg" />
     </item>
     
     <item>
       <title>sdehm.dev</title>
-      <link>//localhost:1313/users/sdehm.dev/</link>
+      <link>http://localhost:1313/users/sdehm.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/sdehm.dev/</guid>
+      <guid>http://localhost:1313/users/sdehm.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/sdehm.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/sdehm.dev/feature.jpg" />
     </item>
     
     <item>
       <title>dizzytech.de</title>
-      <link>//localhost:1313/users/dizzytech.de/</link>
+      <link>http://localhost:1313/users/dizzytech.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/dizzytech.de/</guid>
+      <guid>http://localhost:1313/users/dizzytech.de/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/dizzytech.de/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/dizzytech.de/feature.jpg" />
     </item>
     
     <item>
       <title>alejandro-ao.com</title>
-      <link>//localhost:1313/users/alejandro-ao.com/</link>
+      <link>http://localhost:1313/users/alejandro-ao.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/alejandro-ao.com/</guid>
+      <guid>http://localhost:1313/users/alejandro-ao.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/alejandro-ao.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/alejandro-ao.com/feature.jpg" />
     </item>
     
     <item>
       <title>adir1.com</title>
-      <link>//localhost:1313/users/adir1.com/</link>
+      <link>http://localhost:1313/users/adir1.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/adir1.com/</guid>
+      <guid>http://localhost:1313/users/adir1.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/adir1.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/adir1.com/feature.jpg" />
     </item>
     
     <item>
       <title>niklas-hartmann-dev.de</title>
-      <link>//localhost:1313/users/niklas-hartmann-dev.de/</link>
+      <link>http://localhost:1313/users/niklas-hartmann-dev.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/niklas-hartmann-dev.de/</guid>
+      <guid>http://localhost:1313/users/niklas-hartmann-dev.de/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/niklas-hartmann-dev.de/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/niklas-hartmann-dev.de/feature.jpg" />
     </item>
     
     <item>
       <title>blog.muffn.io</title>
-      <link>//localhost:1313/users/blog.muffn.io/</link>
+      <link>http://localhost:1313/users/blog.muffn.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/blog.muffn.io/</guid>
+      <guid>http://localhost:1313/users/blog.muffn.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/blog.muffn.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/blog.muffn.io/feature.jpg" />
     </item>
     
     <item>
       <title>nick.bouwhuis.net</title>
-      <link>//localhost:1313/users/nick.bouwhuis.net/</link>
+      <link>http://localhost:1313/users/nick.bouwhuis.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/nick.bouwhuis.net/</guid>
+      <guid>http://localhost:1313/users/nick.bouwhuis.net/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/nick.bouwhuis.net/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/nick.bouwhuis.net/feature.jpg" />
     </item>
     
     <item>
       <title>vividscc.com</title>
-      <link>//localhost:1313/users/vividscc.com/</link>
+      <link>http://localhost:1313/users/vividscc.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/vividscc.com/</guid>
+      <guid>http://localhost:1313/users/vividscc.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/vividscc.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/vividscc.com/feature.jpg" />
     </item>
     
     <item>
       <title>mariuskimmina.com</title>
-      <link>//localhost:1313/users/mariuskimmina.com/</link>
+      <link>http://localhost:1313/users/mariuskimmina.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mariuskimmina.com/</guid>
+      <guid>http://localhost:1313/users/mariuskimmina.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mariuskimmina.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mariuskimmina.com/feature.jpg" />
     </item>
     
     <item>
       <title>technicat.com</title>
-      <link>//localhost:1313/users/technicat.com/</link>
+      <link>http://localhost:1313/users/technicat.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/technicat.com/</guid>
+      <guid>http://localhost:1313/users/technicat.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/technicat.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/technicat.com/feature.jpg" />
     </item>
     
     <item>
       <title>fugugames.com</title>
-      <link>//localhost:1313/users/fugugames.com/</link>
+      <link>http://localhost:1313/users/fugugames.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/fugugames.com/</guid>
+      <guid>http://localhost:1313/users/fugugames.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/fugugames.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/fugugames.com/feature.jpg" />
     </item>
     
     <item>
       <title>hyperbowl3d.com</title>
-      <link>//localhost:1313/users/hyperbowl3d.com/</link>
+      <link>http://localhost:1313/users/hyperbowl3d.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/hyperbowl3d.com/</guid>
+      <guid>http://localhost:1313/users/hyperbowl3d.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/hyperbowl3d.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/hyperbowl3d.com/feature.jpg" />
     </item>
     
     <item>
       <title>talkdimsum.com</title>
-      <link>//localhost:1313/users/talkdimsum.com/</link>
+      <link>http://localhost:1313/users/talkdimsum.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/talkdimsum.com/</guid>
+      <guid>http://localhost:1313/users/talkdimsum.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/talkdimsum.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/talkdimsum.com/feature.jpg" />
     </item>
     
     <item>
       <title>alanctanner.com</title>
-      <link>//localhost:1313/users/alanctanner.com/</link>
+      <link>http://localhost:1313/users/alanctanner.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/alanctanner.com/</guid>
+      <guid>http://localhost:1313/users/alanctanner.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/alanctanner.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/alanctanner.com/feature.jpg" />
     </item>
     
     <item>
       <title>rdgo.dev</title>
-      <link>//localhost:1313/users/rdgo.dev/</link>
+      <link>http://localhost:1313/users/rdgo.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/rdgo.dev/</guid>
+      <guid>http://localhost:1313/users/rdgo.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/rdgo.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/rdgo.dev/feature.jpg" />
     </item>
     
     <item>
       <title>clemsau.com</title>
-      <link>//localhost:1313/users/clemsau.com/</link>
+      <link>http://localhost:1313/users/clemsau.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/clemsau.com/</guid>
+      <guid>http://localhost:1313/users/clemsau.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/clemsau.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/clemsau.com/feature.jpg" />
     </item>
     
     <item>
       <title>lelouvincx.github.io</title>
-      <link>//localhost:1313/users/lelouvincx.github.io/</link>
+      <link>http://localhost:1313/users/lelouvincx.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/lelouvincx.github.io/</guid>
+      <guid>http://localhost:1313/users/lelouvincx.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/lelouvincx.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/lelouvincx.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>weaxsey.org</title>
-      <link>//localhost:1313/users/weaxsey.org/</link>
+      <link>http://localhost:1313/users/weaxsey.org/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/weaxsey.org/</guid>
+      <guid>http://localhost:1313/users/weaxsey.org/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/weaxsey.org/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/weaxsey.org/feature.jpg" />
     </item>
     
     <item>
       <title>nikarashihatsu.github.io</title>
-      <link>//localhost:1313/users/nikarashihatsu.github.io/</link>
+      <link>http://localhost:1313/users/nikarashihatsu.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/nikarashihatsu.github.io/</guid>
+      <guid>http://localhost:1313/users/nikarashihatsu.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/nikarashihatsu.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/nikarashihatsu.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>blog.enmanuelmoreira.com</title>
-      <link>//localhost:1313/users/blog.enmanuelmoreira.com/</link>
+      <link>http://localhost:1313/users/blog.enmanuelmoreira.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/blog.enmanuelmoreira.com/</guid>
+      <guid>http://localhost:1313/users/blog.enmanuelmoreira.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/blog.enmanuelmoreira.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/blog.enmanuelmoreira.com/feature.jpg" />
     </item>
     
     <item>
       <title>halcyonstraits.com</title>
-      <link>//localhost:1313/users/halcyonstraits.com/</link>
+      <link>http://localhost:1313/users/halcyonstraits.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/halcyonstraits.com/</guid>
+      <guid>http://localhost:1313/users/halcyonstraits.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/halcyonstraits.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/halcyonstraits.com/feature.jpg" />
     </item>
     
     <item>
       <title>50-nuances-octets.fr</title>
-      <link>//localhost:1313/users/50-nuances-octets.fr/</link>
+      <link>http://localhost:1313/users/50-nuances-octets.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/50-nuances-octets.fr/</guid>
+      <guid>http://localhost:1313/users/50-nuances-octets.fr/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/50-nuances-octets.fr/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/50-nuances-octets.fr/feature.jpg" />
     </item>
     
     <item>
       <title>marupanda.art/marucomics</title>
-      <link>//localhost:1313/users/marupanda.art-marucomics/</link>
+      <link>http://localhost:1313/users/marupanda.art-marucomics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/marupanda.art-marucomics/</guid>
+      <guid>http://localhost:1313/users/marupanda.art-marucomics/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/marupanda.art-marucomics/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/marupanda.art-marucomics/feature.jpg" />
     </item>
     
     <item>
       <title>m3upt.com</title>
-      <link>//localhost:1313/users/m3upt.com/</link>
+      <link>http://localhost:1313/users/m3upt.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/m3upt.com/</guid>
+      <guid>http://localhost:1313/users/m3upt.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/m3upt.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/m3upt.com/feature.jpg" />
     </item>
     
     <item>
       <title>pacochan.net</title>
-      <link>//localhost:1313/users/pacochan.net/</link>
+      <link>http://localhost:1313/users/pacochan.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/pacochan.net/</guid>
+      <guid>http://localhost:1313/users/pacochan.net/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/pacochan.net/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/pacochan.net/feature.jpg" />
     </item>
     
     <item>
       <title>jundimubarok.com</title>
-      <link>//localhost:1313/users/jundimubarok.com/</link>
+      <link>http://localhost:1313/users/jundimubarok.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jundimubarok.com/</guid>
+      <guid>http://localhost:1313/users/jundimubarok.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jundimubarok.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jundimubarok.com/feature.jpg" />
     </item>
     
     <item>
       <title>vkmki001.github.io</title>
-      <link>//localhost:1313/users/vkmki001.github.io/</link>
+      <link>http://localhost:1313/users/vkmki001.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/vkmki001.github.io/</guid>
+      <guid>http://localhost:1313/users/vkmki001.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/vkmki001.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/vkmki001.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>bbagwang.com</title>
-      <link>//localhost:1313/users/bbagwang.com/</link>
+      <link>http://localhost:1313/users/bbagwang.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/bbagwang.com/</guid>
+      <guid>http://localhost:1313/users/bbagwang.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/bbagwang.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/bbagwang.com/feature.jpg" />
     </item>
     
     <item>
       <title>jamiemoxon.tech</title>
-      <link>//localhost:1313/users/jamiemoxon.tech/</link>
+      <link>http://localhost:1313/users/jamiemoxon.tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jamiemoxon.tech/</guid>
+      <guid>http://localhost:1313/users/jamiemoxon.tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jamiemoxon.tech/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jamiemoxon.tech/feature.jpg" />
     </item>
     
     <item>
       <title>theindiecoder.cloud</title>
-      <link>//localhost:1313/users/theindiecoder.cloud/</link>
+      <link>http://localhost:1313/users/theindiecoder.cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/theindiecoder.cloud/</guid>
+      <guid>http://localhost:1313/users/theindiecoder.cloud/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/theindiecoder.cloud/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/theindiecoder.cloud/feature.jpg" />
     </item>
     
     <item>
       <title>gma.name</title>
-      <link>//localhost:1313/users/gma.name/</link>
+      <link>http://localhost:1313/users/gma.name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/gma.name/</guid>
+      <guid>http://localhost:1313/users/gma.name/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/gma.name/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/gma.name/feature.jpg" />
     </item>
     
     <item>
       <title>mayer.life</title>
-      <link>//localhost:1313/users/mayer.life/</link>
+      <link>http://localhost:1313/users/mayer.life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mayer.life/</guid>
+      <guid>http://localhost:1313/users/mayer.life/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mayer.life/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mayer.life/feature.jpg" />
     </item>
     
     <item>
       <title>scottmckendry.tech</title>
-      <link>//localhost:1313/users/scottmckendry.tech/</link>
+      <link>http://localhost:1313/users/scottmckendry.tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/scottmckendry.tech/</guid>
+      <guid>http://localhost:1313/users/scottmckendry.tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/scottmckendry.tech/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/scottmckendry.tech/feature.jpg" />
     </item>
     
     <item>
       <title>adilhyz.github.io</title>
-      <link>//localhost:1313/users/adilhyz.github.io/</link>
+      <link>http://localhost:1313/users/adilhyz.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/adilhyz.github.io/</guid>
+      <guid>http://localhost:1313/users/adilhyz.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/adilhyz.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/adilhyz.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>ohdmire.github.io</title>
-      <link>//localhost:1313/users/ohdmire.github.io/</link>
+      <link>http://localhost:1313/users/ohdmire.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ohdmire.github.io/</guid>
+      <guid>http://localhost:1313/users/ohdmire.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ohdmire.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ohdmire.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>ricklan.photography</title>
-      <link>//localhost:1313/users/ricklan.photography/</link>
+      <link>http://localhost:1313/users/ricklan.photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ricklan.photography/</guid>
+      <guid>http://localhost:1313/users/ricklan.photography/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ricklan.photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ricklan.photography/feature.jpg" />
     </item>
     
     <item>
       <title>deepumohan.com/tech</title>
-      <link>//localhost:1313/users/deepumohan.com-tech/</link>
+      <link>http://localhost:1313/users/deepumohan.com-tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/deepumohan.com-tech/</guid>
+      <guid>http://localhost:1313/users/deepumohan.com-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/deepumohan.com-tech/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/deepumohan.com-tech/feature.jpg" />
     </item>
     
     <item>
       <title>kylemalloy.com</title>
-      <link>//localhost:1313/users/kylemalloy.com/</link>
+      <link>http://localhost:1313/users/kylemalloy.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/kylemalloy.com/</guid>
+      <guid>http://localhost:1313/users/kylemalloy.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/kylemalloy.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/kylemalloy.com/feature.jpg" />
     </item>
     
     <item>
       <title>joush007.github.io</title>
-      <link>//localhost:1313/users/joush007.github.io/</link>
+      <link>http://localhost:1313/users/joush007.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/joush007.github.io/</guid>
+      <guid>http://localhost:1313/users/joush007.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/joush007.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/joush007.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>rejowski.xyz</title>
-      <link>//localhost:1313/users/rejowski.xyz/</link>
+      <link>http://localhost:1313/users/rejowski.xyz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/rejowski.xyz/</guid>
+      <guid>http://localhost:1313/users/rejowski.xyz/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/rejowski.xyz/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/rejowski.xyz/feature.jpg" />
     </item>
     
     <item>
       <title>v-y-s.com</title>
-      <link>//localhost:1313/users/v-y-s.com/</link>
+      <link>http://localhost:1313/users/v-y-s.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/v-y-s.com/</guid>
+      <guid>http://localhost:1313/users/v-y-s.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/v-y-s.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/v-y-s.com/feature.jpg" />
     </item>
     
     <item>
       <title>blog.stonegarden.dev</title>
-      <link>//localhost:1313/users/blog.stonegarden.dev/</link>
+      <link>http://localhost:1313/users/blog.stonegarden.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/blog.stonegarden.dev/</guid>
+      <guid>http://localhost:1313/users/blog.stonegarden.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/blog.stonegarden.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/blog.stonegarden.dev/feature.jpg" />
     </item>
     
     <item>
       <title>renaud.warnotte.be</title>
-      <link>//localhost:1313/users/renaud.warnotte.be/</link>
+      <link>http://localhost:1313/users/renaud.warnotte.be/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/renaud.warnotte.be/</guid>
+      <guid>http://localhost:1313/users/renaud.warnotte.be/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/renaud.warnotte.be/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/renaud.warnotte.be/feature.jpg" />
     </item>
     
     <item>
       <title>BoringTech.net</title>
-      <link>//localhost:1313/users/boringtech.net/</link>
+      <link>http://localhost:1313/users/boringtech.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/boringtech.net/</guid>
+      <guid>http://localhost:1313/users/boringtech.net/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/boringtech.net/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/boringtech.net/feature.jpg" />
     </item>
     
     <item>
       <title>technicaldc.github.io</title>
-      <link>//localhost:1313/users/technicaldc.github.io/</link>
+      <link>http://localhost:1313/users/technicaldc.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/technicaldc.github.io/</guid>
+      <guid>http://localhost:1313/users/technicaldc.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/technicaldc.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/technicaldc.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>alxhslm.github.io</title>
-      <link>//localhost:1313/users/alxhslm.github.io/</link>
+      <link>http://localhost:1313/users/alxhslm.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/alxhslm.github.io/</guid>
+      <guid>http://localhost:1313/users/alxhslm.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/alxhslm.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/alxhslm.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>the-maze.net</title>
-      <link>//localhost:1313/users/the-maze.net/</link>
+      <link>http://localhost:1313/users/the-maze.net/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/the-maze.net/</guid>
+      <guid>http://localhost:1313/users/the-maze.net/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/the-maze.net/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/the-maze.net/feature.jpg" />
     </item>
     
     <item>
       <title>DXPetti.com</title>
-      <link>//localhost:1313/users/dxpetti.com/</link>
+      <link>http://localhost:1313/users/dxpetti.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/dxpetti.com/</guid>
+      <guid>http://localhost:1313/users/dxpetti.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/dxpetti.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/dxpetti.com/feature.jpg" />
     </item>
     
     <item>
       <title>asterisk.lol</title>
-      <link>//localhost:1313/users/asterisk.lol/</link>
+      <link>http://localhost:1313/users/asterisk.lol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/asterisk.lol/</guid>
+      <guid>http://localhost:1313/users/asterisk.lol/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/asterisk.lol/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/asterisk.lol/feature.jpg" />
     </item>
     
     <item>
       <title>notes.bluesdriveamelia.space</title>
-      <link>//localhost:1313/users/notes.bluesdriveamelia.space/</link>
+      <link>http://localhost:1313/users/notes.bluesdriveamelia.space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/notes.bluesdriveamelia.space/</guid>
+      <guid>http://localhost:1313/users/notes.bluesdriveamelia.space/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/notes.bluesdriveamelia.space/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/notes.bluesdriveamelia.space/feature.jpg" />
     </item>
     
     <item>
       <title>ekwska.com</title>
-      <link>//localhost:1313/users/ekwska.com/</link>
+      <link>http://localhost:1313/users/ekwska.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ekwska.com/</guid>
+      <guid>http://localhost:1313/users/ekwska.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ekwska.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ekwska.com/feature.jpg" />
     </item>
     
     <item>
       <title>todreamr.github.io</title>
-      <link>//localhost:1313/users/todreamr.github.io/</link>
+      <link>http://localhost:1313/users/todreamr.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/todreamr.github.io/</guid>
+      <guid>http://localhost:1313/users/todreamr.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/todreamr.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/todreamr.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>aakashnand.com</title>
-      <link>//localhost:1313/users/aakashnand.com/</link>
+      <link>http://localhost:1313/users/aakashnand.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/aakashnand.com/</guid>
+      <guid>http://localhost:1313/users/aakashnand.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/aakashnand.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/aakashnand.com/feature.jpg" />
     </item>
     
     <item>
       <title>innerknowing</title>
-      <link>//localhost:1313/users/innerknowing/</link>
+      <link>http://localhost:1313/users/innerknowing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/innerknowing/</guid>
+      <guid>http://localhost:1313/users/innerknowing/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/innerknowing/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/innerknowing/feature.jpg" />
     </item>
     
     <item>
       <title>Mare_Infinitus</title>
-      <link>//localhost:1313/users/mare_infinitus/</link>
+      <link>http://localhost:1313/users/mare_infinitus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mare_infinitus/</guid>
+      <guid>http://localhost:1313/users/mare_infinitus/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mare_infinitus/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mare_infinitus/feature.jpg" />
     </item>
     
     <item>
       <title>karlukle.site</title>
-      <link>//localhost:1313/users/karlukle.site/</link>
+      <link>http://localhost:1313/users/karlukle.site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/karlukle.site/</guid>
+      <guid>http://localhost:1313/users/karlukle.site/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/karlukle.site/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/karlukle.site/feature.jpg" />
     </item>
     
     <item>
       <title>Adam Madej - Gameplay Animator</title>
-      <link>//localhost:1313/users/adam-madej---gameplay-animator/</link>
+      <link>http://localhost:1313/users/adam-madej---gameplay-animator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/adam-madej---gameplay-animator/</guid>
+      <guid>http://localhost:1313/users/adam-madej---gameplay-animator/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/adam-madej---gameplay-animator/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/adam-madej---gameplay-animator/feature.jpg" />
     </item>
     
     <item>
       <title>eallion.com</title>
-      <link>//localhost:1313/users/eallion.com/</link>
+      <link>http://localhost:1313/users/eallion.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/eallion.com/</guid>
+      <guid>http://localhost:1313/users/eallion.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/eallion.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/eallion.com/feature.jpg" />
     </item>
     
     <item>
       <title>Synaptic Sugar</title>
-      <link>//localhost:1313/users/synaptic-sugar/</link>
+      <link>http://localhost:1313/users/synaptic-sugar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/synaptic-sugar/</guid>
+      <guid>http://localhost:1313/users/synaptic-sugar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/synaptic-sugar/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/synaptic-sugar/feature.jpg" />
     </item>
     
     <item>
       <title>michaeldorner.de</title>
-      <link>//localhost:1313/users/michaeldorner.de/</link>
+      <link>http://localhost:1313/users/michaeldorner.de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/michaeldorner.de/</guid>
+      <guid>http://localhost:1313/users/michaeldorner.de/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/michaeldorner.de/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/michaeldorner.de/feature.jpg" />
     </item>
     
     <item>
       <title>Ignacio Conde</title>
-      <link>//localhost:1313/users/ignacio-conde/</link>
+      <link>http://localhost:1313/users/ignacio-conde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ignacio-conde/</guid>
+      <guid>http://localhost:1313/users/ignacio-conde/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ignacio-conde/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ignacio-conde/feature.jpg" />
     </item>
     
     <item>
       <title>MEM v ENNBEE</title>
-      <link>//localhost:1313/users/mem-v-ennbee/</link>
+      <link>http://localhost:1313/users/mem-v-ennbee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/mem-v-ennbee/</guid>
+      <guid>http://localhost:1313/users/mem-v-ennbee/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/mem-v-ennbee/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/mem-v-ennbee/feature.jpg" />
     </item>
     
     <item>
       <title>Joshua Blais</title>
-      <link>//localhost:1313/users/joshua-blais/</link>
+      <link>http://localhost:1313/users/joshua-blais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/joshua-blais/</guid>
+      <guid>http://localhost:1313/users/joshua-blais/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/joshua-blais/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/joshua-blais/feature.jpg" />
     </item>
     
     <item>
       <title>Beauty Formulation</title>
-      <link>//localhost:1313/users/beauty-formulation/</link>
+      <link>http://localhost:1313/users/beauty-formulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/beauty-formulation/</guid>
+      <guid>http://localhost:1313/users/beauty-formulation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/beauty-formulation/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/beauty-formulation/feature.jpg" />
     </item>
     
     <item>
       <title>Middle of Nowhere</title>
-      <link>//localhost:1313/users/middle-of-nowhere/</link>
+      <link>http://localhost:1313/users/middle-of-nowhere/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/middle-of-nowhere/</guid>
+      <guid>http://localhost:1313/users/middle-of-nowhere/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/middle-of-nowhere/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/middle-of-nowhere/feature.jpg" />
     </item>
     
     <item>
       <title>UmmIt - Blog</title>
-      <link>//localhost:1313/users/ummit---blog/</link>
+      <link>http://localhost:1313/users/ummit---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ummit---blog/</guid>
+      <guid>http://localhost:1313/users/ummit---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ummit---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ummit---blog/feature.jpg" />
     </item>
     
     <item>
       <title>江ノ島エスカー</title>
-      <link>//localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</link>
+      <link>http://localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</guid>
+      <guid>http://localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/feature.jpg" />
     </item>
     
     <item>
       <title>Jinbo Pan - Blog</title>
-      <link>//localhost:1313/users/jinbo-pan---blog/</link>
+      <link>http://localhost:1313/users/jinbo-pan---blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jinbo-pan---blog/</guid>
+      <guid>http://localhost:1313/users/jinbo-pan---blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jinbo-pan---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jinbo-pan---blog/feature.jpg" />
     </item>
     
     <item>
       <title>nveshaan</title>
-      <link>//localhost:1313/users/nveshaan/</link>
+      <link>http://localhost:1313/users/nveshaan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/nveshaan/</guid>
+      <guid>http://localhost:1313/users/nveshaan/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/nveshaan/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/nveshaan/feature.jpg" />
     </item>
     
     <item>
       <title>micheledinelli.github.io</title>
-      <link>//localhost:1313/users/micheledinelli.github.io/</link>
+      <link>http://localhost:1313/users/micheledinelli.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/micheledinelli.github.io/</guid>
+      <guid>http://localhost:1313/users/micheledinelli.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/micheledinelli.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/micheledinelli.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>kumacat.pages.dev</title>
-      <link>//localhost:1313/users/kumacat.pages.dev/</link>
+      <link>http://localhost:1313/users/kumacat.pages.dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/kumacat.pages.dev/</guid>
+      <guid>http://localhost:1313/users/kumacat.pages.dev/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/kumacat.pages.dev/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/kumacat.pages.dev/feature.jpg" />
     </item>
     
     <item>
       <title>andrealucchini.com</title>
-      <link>//localhost:1313/users/andrealucchini.com/</link>
+      <link>http://localhost:1313/users/andrealucchini.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/andrealucchini.com/</guid>
+      <guid>http://localhost:1313/users/andrealucchini.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/andrealucchini.com/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/andrealucchini.com/feature.jpg" />
     </item>
     
     <item>
       <title>lazarusoverlook.com</title>
-      <link>//localhost:1313/users/lazarusoverlook.com/</link>
+      <link>http://localhost:1313/users/lazarusoverlook.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/lazarusoverlook.com/</guid>
+      <guid>http://localhost:1313/users/lazarusoverlook.com/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/lazarusoverlook.com/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/lazarusoverlook.com/featured.webp" />
     </item>
     
     <item>
       <title>Build your homepage using Blowfish and Hugo</title>
-      <link>//localhost:1313/guides/202310-blowfish-tutorial/</link>
+      <link>http://localhost:1313/guides/202310-blowfish-tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/202310-blowfish-tutorial/</guid>
+      <guid>http://localhost:1313/guides/202310-blowfish-tutorial/</guid>
       <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
     </item>
     
     <item>
       <title>Blowfish Tutorial</title>
-      <link>//localhost:1313/examples/blowfish-tutorial/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.it/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-tutorial/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Tutorial</title>
-      <link>//localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish チュートリアル</title>
-      <link>//localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Tutorial - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-tutorial/_index.it/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.it/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-tutorial/_index.it/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Tutorial - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish チュートリアル - レポジトリ</title>
-      <link>//localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-tutorial/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lite</title>
-      <link>//localhost:1313/examples/blowfish-lite/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.it/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lite/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lite</title>
-      <link>//localhost:1313/examples/blowfish-lite/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.ja/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lite/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lite</title>
-      <link>//localhost:1313/examples/blowfish-lite/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lite/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist</title>
-      <link>//localhost:1313/examples/blowfish-artist/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.it/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-artist/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist</title>
-      <link>//localhost:1313/examples/blowfish-artist/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.ja/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-artist/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist</title>
-      <link>//localhost:1313/examples/blowfish-artist/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-artist/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>//localhost:1313/examples/blowfish-lowkey/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.it/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lowkey/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>//localhost:1313/examples/blowfish-lowkey/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lowkey/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>//localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>//localhost:1313/samples/multiple-authors/</link>
+      <link>http://localhost:1313/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/multiple-authors/</guid>
+      <guid>http://localhost:1313/samples/multiple-authors/</guid>
       <description>A quick example of how multiple authors could be used.</description>
       
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>//localhost:1313/samples/thumbnail_sample/</link>
+      <link>http://localhost:1313/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/thumbnail_sample/</guid>
+      <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     
     <item>
       <title>Blowfish Lite - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-lite/_index.it/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.it/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lite/_index.it/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lite - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lite - レポジトリ</title>
-      <link>//localhost:1313/examples/repo-blowfish-lite/_index.ja/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lite/_index.ja/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lite/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lite/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-artist/_index.it/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.it/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-artist/_index.it/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Artist - レポジトリ</title>
-      <link>//localhost:1313/examples/repo-blowfish-artist/_index.ja/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-artist/_index.ja/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-artist/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-artist/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-lowkey/_index.it/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.it/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lowkey/_index.it/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey - Repo</title>
-      <link>//localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey - レポジトリ</title>
-      <link>//localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</link>
+      <link>http://localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/repo-blowfish-lowkey/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Template</title>
-      <link>//localhost:1313/examples/blowfish-template/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-template/_index.it/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Template</title>
-      <link>//localhost:1313/examples/blowfish-template/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Template - GitHub Repo</title>
-      <link>//localhost:1313/examples/blowfish-template-repo/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-template-repo/_index.it/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template-repo/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Template - GitHub Repo</title>
-      <link>//localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish テンプレート</title>
-      <link>//localhost:1313/examples/blowfish-template/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-template/_index.ja/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish テンプレート - GitHub レポジトリ</title>
-      <link>//localhost:1313/examples/blowfish-template-repo/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-template-repo/_index.ja/</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/blowfish-template-repo/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-template-repo/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Icons</title>
-      <link>//localhost:1313/samples/icons/</link>
+      <link>http://localhost:1313/samples/icons/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/icons/</guid>
-      <description>&lt;p&gt;Blowfish has built-in support for a number of &lt;a href=&#34;https://fontawesome.com/icons&#34; target=&#34;_blank&#34;&gt;FontAwesome 6&lt;/a&gt; icons. These can be included in your website through either the &lt;a href=&#34;//localhost:1313/docs/partials/#icon&#34;&gt;icon partial&lt;/a&gt; or &lt;a href=&#34;//localhost:1313/docs/shortcodes/#icon&#34;&gt;icon shortcode&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish has built-in support for a number of &lt;a href=&#34;https://fontawesome.com/icons&#34; target=&#34;_blank&#34;&gt;FontAwesome 6&lt;/a&gt; icons. These can be included in your website through either the &lt;a href=&#34;http://localhost:1313/docs/partials/#icon&#34;&gt;icon partial&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/docs/shortcodes/#icon&#34;&gt;icon shortcode&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Additionally, custom icons are also fully supported. Simply provide your own SVG icon assets by placing them in the &lt;code&gt;assets/icons/&lt;/code&gt; directory in the root of your project. Any icons in the icons directory will then be available to use throughout the theme. In order achieve automatic color filling every SVG path needs fill=&amp;ldquo;currentColor&amp;rdquo; XML attribute.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Users</title>
-      <link>//localhost:1313/users/users/</link>
+      <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/users/</guid>
-      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/users/users/</guid>
+      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
 
   
 
@@ -1563,21 +1563,21 @@
     
     <item>
       <title>ユーザー</title>
-      <link>//localhost:1313/users/users/</link>
+      <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/users/</guid>
-      <description>&lt;p&gt;Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一覧は &lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;JSON 形式&lt;/a&gt; で閲覧可能です。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/users/users/</guid>
+      <description>&lt;p&gt;Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一覧は &lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;JSON 形式&lt;/a&gt; で閲覧可能です。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>用户列表</title>
-      <link>//localhost:1313/users/users/</link>
+      <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/users/</guid>
-      <description>&lt;p&gt;这里有使用 Blowfish 构建的网站实例。点击&lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;这里&lt;/a&gt;以 JSON 形式查看完整列表。&lt;/p&gt;
+      <guid>http://localhost:1313/users/users/</guid>
+      <description>&lt;p&gt;这里有使用 Blowfish 构建的网站实例。点击&lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;这里&lt;/a&gt;以 JSON 形式查看完整列表。&lt;/p&gt;
 
   
 
@@ -1615,80 +1615,80 @@
     
     <item>
       <title>Markdown</title>
-      <link>//localhost:1313/samples/markdown/</link>
+      <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/markdown/</guid>
+      <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>//localhost:1313/samples/rich-content/</link>
+      <link>http://localhost:1313/samples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/rich-content/</guid>
+      <guid>http://localhost:1313/samples/rich-content/</guid>
       <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
       
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>//localhost:1313/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Mathematical notation</title>
-      <link>//localhost:1313/samples/mathematical-notation/</link>
+      <link>http://localhost:1313/samples/mathematical-notation/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/mathematical-notation/</guid>
+      <guid>http://localhost:1313/samples/mathematical-notation/</guid>
       <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Charts</title>
-      <link>//localhost:1313/samples/charts/</link>
+      <link>http://localhost:1313/samples/charts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/charts/</guid>
+      <guid>http://localhost:1313/samples/charts/</guid>
       <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
       
     </item>
     
     <item>
       <title>Diagrams and Flowcharts</title>
-      <link>//localhost:1313/samples/diagrams-flowcharts/</link>
+      <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/diagrams-flowcharts/</guid>
+      <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
       <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
       
     </item>
     
     <item>
       <title>Emoji :parachute:</title>
-      <link>//localhost:1313/samples/emoji/</link>
+      <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/emoji/</guid>
+      <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
     </item>
     
     <item>
       <title>Recipe Template</title>
-      <link>//localhost:1313/guides/template/</link>
+      <link>http://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/template/</guid>
+      <guid>http://localhost:1313/guides/template/</guid>
       <description>&lt;p&gt;Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.&lt;/p&gt;
 
 
@@ -1703,138 +1703,138 @@
     
 &lt;/h2&gt;
 &lt;p&gt;This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/guides/template/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />
     </item>
     
     <item>
       <title>2人目のダミー作者</title>
-      <link>//localhost:1313/authors/secondauthor/_index.ja/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/secondauthor/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.ja/</guid>
       <description>&lt;p&gt;2人目のダミー作者の素晴らしいダミープロフィールです。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Advanced</title>
-      <link>//localhost:1313/tags/advanced/_index.it/</link>
+      <link>http://localhost:1313/tags/advanced/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/advanced/_index.it/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.it/</guid>
       <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Campioni</title>
-      <link>//localhost:1313/samples/_index.it/</link>
+      <link>http://localhost:1313/samples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/_index.it/</guid>
+      <guid>http://localhost:1313/samples/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish dà vita ai tuoi contenuti. &amp;#x1f60d;
 &lt;/div&gt;
 
-&lt;p&gt;Questa sezione contiene alcune pagine demo che mostrano come Blowfish esegue il rendering di diversi tipi di contenuto. Puoi anche vedere una pagina di esempio &lt;a href=&#34;//localhost:1313/tags/&#34;&gt;elenco tassonomia&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Questa sezione contiene alcune pagine demo che mostrano come Blowfish esegue il rendering di diversi tipi di contenuto. Puoi anche vedere una pagina di esempio &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;elenco tassonomia&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Documenti</title>
-      <link>//localhost:1313/docs/_index.it/</link>
+      <link>http://localhost:1313/docs/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/_index.it/</guid>
+      <guid>http://localhost:1313/docs/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Semplice ma potente. Scopri come utilizzare Blowfish e le sue funzionalità.
 &lt;/div&gt;
 
-&lt;p&gt;Questa sezione contiene tutto ciò che devi sapere su Blowfish. Se sei nuovo, consulta la guida &lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;Installazione&lt;/a&gt; per iniziare o visita la sezione &lt;a href=&#34;//localhost:1313/samples/&#34;&gt;Esempi&lt;/a&gt; per vedere cosa può fare Blowfish.&lt;/p&gt;</description>
+&lt;p&gt;Questa sezione contiene tutto ciò che devi sapere su Blowfish. Se sei nuovo, consulta la guida &lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;Installazione&lt;/a&gt; per iniziare o visita la sezione &lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;Esempi&lt;/a&gt; per vedere cosa può fare Blowfish.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Dummy Second Author</title>
-      <link>//localhost:1313/authors/secondauthor/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/secondauthor/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.zh-cn/</guid>
       <description>&lt;p&gt;假装这里有一份第二位作者的简介。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Esempio di elenco di tassonomia degli autori</title>
-      <link>//localhost:1313/authors/_index.it/</link>
+      <link>http://localhost:1313/authors/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/_index.it/</guid>
+      <guid>http://localhost:1313/authors/_index.it/</guid>
       <description>&lt;p&gt;Un rapido esempio di come iniziare a utilizzare le tassonomie degli autori nei tuoi articoli.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Nuno Coraçao</title>
-      <link>//localhost:1313/authors/nunocoracao/_index.it/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/nunocoracao/_index.it/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.it/</guid>
       <description>&lt;p&gt;La fantastica biografia di Nuno.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Nuno Coração</title>
-      <link>//localhost:1313/authors/nunocoracao/_index.ja/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/nunocoracao/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.ja/</guid>
       <description>&lt;p&gt;Nuno の素晴らしいダミープロフィールです。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Nuno Coração</title>
-      <link>//localhost:1313/authors/nunocoracao/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/nunocoracao/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</guid>
       <description>&lt;p&gt;假装这里有一份 Nuno 的简介。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>//localhost:1313/guides/_index.it/</link>
+      <link>http://localhost:1313/guides/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/_index.it/</guid>
+      <guid>http://localhost:1313/guides/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Recipes, guides, and tutorials for Blowfish
 &lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Blowfish user?&lt;/strong&gt; To add your guide to this list, &lt;a href=&#34;//localhost:1313/guides/template/&#34;&gt;check the template&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This section contains guides for a variety of scenarios on how to configure your theme. If you&amp;rsquo;re new, check out the &lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;Installation&lt;/a&gt; guide to begin or visit the &lt;a href=&#34;//localhost:1313/samples/&#34;&gt;Samples&lt;/a&gt; section to see what Blowfish can do.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Blowfish user?&lt;/strong&gt; To add your guide to this list, &lt;a href=&#34;http://localhost:1313/guides/template/&#34;&gt;check the template&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This section contains guides for a variety of scenarios on how to configure your theme. If you&amp;rsquo;re new, check out the &lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;Installation&lt;/a&gt; guide to begin or visit the &lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;Samples&lt;/a&gt; section to see what Blowfish can do.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Secondo autore fittizio</title>
-      <link>//localhost:1313/authors/secondauthor/_index.it/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/secondauthor/_index.it/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.it/</guid>
       <description>&lt;p&gt;La fantastica biografia fittizia di Dummy Second Author.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>//localhost:1313/examples/_index.it/</link>
+      <link>http://localhost:1313/examples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/_index.it/</guid>
+      <guid>http://localhost:1313/examples/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
 &lt;/div&gt;
@@ -1846,10 +1846,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>//localhost:1313/examples/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
 &lt;/div&gt;
@@ -1861,34 +1861,34 @@
     
     <item>
       <title>Tag</title>
-      <link>//localhost:1313/tags/_index.it/</link>
+      <link>http://localhost:1313/tags/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/_index.it/</guid>
+      <guid>http://localhost:1313/tags/_index.it/</guid>
       <description>&lt;p&gt;Blowfish ha il pieno supporto per le tassonomie Hugo e si adatterà a qualsiasi impostazione tassonomica. Gli elenchi di tassonomia come questo supportano anche il contenuto personalizzato da visualizzare sopra l&amp;rsquo;elenco dei termini.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>サンプル</title>
-      <link>//localhost:1313/samples/_index.ja/</link>
+      <link>http://localhost:1313/samples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/_index.ja/</guid>
+      <guid>http://localhost:1313/samples/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish はあなたのコンテンツに命を宿します。&amp;#x1f60d;
 &lt;/div&gt;
 
-&lt;p&gt;このセクションは、 Blowfish で様々な種類のコンテンツをどのように表示するのかを紹介するデモページを含みます。例としては&lt;a href=&#34;//localhost:1313/tags/&#34;&gt;分類一覧&lt;/a&gt;ページも参考になります。&lt;/p&gt;</description>
+&lt;p&gt;このセクションは、 Blowfish で様々な種類のコンテンツをどのように表示するのかを紹介するデモページを含みます。例としては&lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;分類一覧&lt;/a&gt;ページも参考になります。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>ショーケース</title>
-      <link>//localhost:1313/examples/_index.ja/</link>
+      <link>http://localhost:1313/examples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/examples/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish で何が出来るか見てみる。
 &lt;/div&gt;
@@ -1899,130 +1899,130 @@
     
     <item>
       <title>タグ</title>
-      <link>//localhost:1313/tags/_index.ja/</link>
+      <link>http://localhost:1313/tags/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/_index.ja/</guid>
+      <guid>http://localhost:1313/tags/_index.ja/</guid>
       <description>&lt;p&gt;Blowfish は Hugo の分類システムを完全にサポートし、どのような分類システムの設定でも適合できます。このような分類システムのリストは、用語リストの上に表示されるカスタムコンテンツもサポートしています。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>レシピ</title>
-      <link>//localhost:1313/guides/_index.ja/</link>
+      <link>http://localhost:1313/guides/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/_index.ja/</guid>
+      <guid>http://localhost:1313/guides/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish のためのレシピ、ガイド、チュートリアル
 &lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Blowfish ユーザーですか?&lt;/strong&gt; この一覧にあなたのガイドを加える際は、&lt;a href=&#34;//localhost:1313/guides/template/&#34;&gt;テンプレートを確認&lt;/a&gt;してください。&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Blowfish ユーザーですか?&lt;/strong&gt; この一覧にあなたのガイドを加える際は、&lt;a href=&#34;http://localhost:1313/guides/template/&#34;&gt;テンプレートを確認&lt;/a&gt;してください。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>作者列表示例</title>
-      <link>//localhost:1313/authors/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/_index.zh-cn/</guid>
       <description>&lt;p&gt;在你的文章中添加不同作者的简单示例。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>使用指南</title>
-      <link>//localhost:1313/guides/_index.zh-cn/</link>
+      <link>http://localhost:1313/guides/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/guides/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish 的使用指南和教程
 &lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;您是 Blowfish 的用户吗?&lt;/strong&gt; 要将您自己编写的指南添加到此列表，请查看&lt;a href=&#34;//localhost:1313/guides/template/&#34;&gt;参考模板&lt;/a&gt;。&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;您是 Blowfish 的用户吗?&lt;/strong&gt; 要将您自己编写的指南添加到此列表，请查看&lt;a href=&#34;http://localhost:1313/guides/template/&#34;&gt;参考模板&lt;/a&gt;。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>文档</title>
-      <link>//localhost:1313/docs/_index.zh-cn/</link>
+      <link>http://localhost:1313/docs/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/docs/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   了解如何使用简单而强大的 Blowfish。
 &lt;/div&gt;
 
-&lt;p&gt;本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;安装&lt;/a&gt; 指南，或者访问&lt;a href=&#34;//localhost:1313/samples/&#34;&gt;示例&lt;/a&gt; 来了解 Blowfish 能做什么。&lt;/p&gt;</description>
+&lt;p&gt;本章节包含了你需要了解的有关 Blowfish 的所有信息。如果你是新用户，请查阅&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;安装&lt;/a&gt; 指南，或者访问&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;示例&lt;/a&gt; 来了解 Blowfish 能做什么。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>标签</title>
-      <link>//localhost:1313/tags/_index.zh-cn/</link>
+      <link>http://localhost:1313/tags/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/tags/_index.zh-cn/</guid>
       <description>&lt;p&gt;Blowfish 支持基于 Hugo 的所有分类方法。同时，当前的标签预览页也支持展示自定义内容。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>示例</title>
-      <link>//localhost:1313/samples/_index.zh-cn/</link>
+      <link>http://localhost:1313/samples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/samples/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish 让你的内容栩栩如生。 &amp;#x1f60d;
 &lt;/div&gt;
 
-&lt;p&gt;本节包含一些示例页面，展示了Blowfish如何呈现不同类型的内容。你还可以参考&lt;a href=&#34;//localhost:1313/tags/&#34;&gt;标签&lt;/a&gt;页面的示例。&lt;/p&gt;</description>
+&lt;p&gt;本节包含一些示例页面，展示了Blowfish如何呈现不同类型的内容。你还可以参考&lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;标签&lt;/a&gt;页面的示例。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>著者の分類リストの例</title>
-      <link>//localhost:1313/authors/_index.ja/</link>
+      <link>http://localhost:1313/authors/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/authors/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/_index.ja/</guid>
       <description>&lt;p&gt;あなたの記事でどのように著者の分類を開始するかの簡単な例です。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>資料</title>
-      <link>//localhost:1313/docs/_index.ja/</link>
+      <link>http://localhost:1313/docs/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/_index.ja/</guid>
+      <guid>http://localhost:1313/docs/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   シンプル、それでいて強力。 Blowfish の利用方法と特徴について学ぶ。
 &lt;/div&gt;
 
-&lt;p&gt;このセクションは Blowfish について知る必要のある全てのことが含まれています。新しく作成する場合は、開始するために&lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;インストール&lt;/a&gt;ガイド、または Blowfish が何が出来るか&lt;a href=&#34;//localhost:1313/samples/&#34;&gt;サンプル&lt;/a&gt;セクションに訪れてください。&lt;/p&gt;</description>
+&lt;p&gt;このセクションは Blowfish について知る必要のある全てのことが含まれています。新しく作成する場合は、開始するために&lt;a href=&#34;http://localhost:1313/docs/installation/&#34;&gt;インストール&lt;/a&gt;ガイド、または Blowfish が何が出来るか&lt;a href=&#34;http://localhost:1313/samples/&#34;&gt;サンプル&lt;/a&gt;セクションに訪れてください。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>高度なタグ</title>
-      <link>//localhost:1313/tags/advanced/_index.ja/</link>
+      <link>http://localhost:1313/tags/advanced/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/advanced/_index.ja/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.ja/</guid>
       <description>&lt;p&gt;こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項にカスタムコンテンツの追加やそれを条項リストの一番上に表示することが可能です。&amp;#x1f680;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>高级</title>
-      <link>//localhost:1313/tags/advanced/_index.zh-cn/</link>
+      <link>http://localhost:1313/tags/advanced/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/tags/advanced/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.zh-cn/</guid>
       <description>&lt;p&gt;这是高级标记。类似其他 Blowfish 中的其他列表页面，你可以在分类列表页添加自定义内容，这部分内容会显示在顶部。&amp;#x1f680;&lt;/p&gt;</description>
       
     </item>

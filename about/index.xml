@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bowen Zhang</title>
-    <link>//localhost:1313/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mermaid on Bowen Zhang</title>
-    <link>//localhost:1313/tags/mermaid/</link>
+    <link>http://localhost:1313/tags/mermaid/</link>
     <description>Recent content in Mermaid on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes</title>
-      <link>//localhost:1313/docs/shortcodes/</link>
+      <link>http://localhost:1313/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/shortcodes/</guid>
+      <guid>http://localhost:1313/docs/shortcodes/</guid>
       <description>&lt;p&gt;In addition to all the &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34; target=&#34;_blank&#34;&gt;default Hugo shortcodes&lt;/a&gt;, Blowfish adds a few extras for additional functionality.&lt;/p&gt;
 
 
@@ -30,15 +30,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;alert&lt;/code&gt; outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/shortcodes/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
     </item>
     
     <item>
       <title>Diagrams and Flowcharts</title>
-      <link>//localhost:1313/samples/diagrams-flowcharts/</link>
+      <link>http://localhost:1313/samples/diagrams-flowcharts/</link>
       <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/diagrams-flowcharts/</guid>
+      <guid>http://localhost:1313/samples/diagrams-flowcharts/</guid>
       <description>It&amp;rsquo;s easy to add diagrams and flowcharts to articles using Mermaid.</description>
       
     </item>

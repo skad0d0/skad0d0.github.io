@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation on Bowen Zhang</title>
-    <link>//localhost:1313/tags/installation/</link>
+    <link>http://localhost:1313/tags/installation/</link>
     <description>Recent content in Installation on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <atom:link href="//localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
-      <link>//localhost:1313/docs/installation/</link>
+      <link>http://localhost:1313/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/installation/</guid>
+      <guid>http://localhost:1313/docs/installation/</guid>
       <description>&lt;p&gt;Simply follow the standard Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Quick Start&lt;/a&gt; procedure to get up and running quickly.&lt;/p&gt;
 &lt;p&gt;Detailed installation instructions can be found below. Instructions for &lt;a href=&#34;#installing-updates&#34;&gt;updating the theme&lt;/a&gt; are also available.&lt;/p&gt;
 
@@ -31,15 +31,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>//localhost:1313/docs/getting-started/</link>
+      <link>http://localhost:1313/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/getting-started/</guid>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -63,7 +63,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;This section assumes you have already &lt;a href=&#34;//localhost:1313/docs/installation/&#34;&gt;installed the Blowfish theme&lt;/a&gt;.&lt;/span&gt;
+    &gt;This section assumes you have already &lt;a href=&#34;http://localhost:1313/docs/installation/&#34; target=&#34;_blank&#34;&gt;installed the Blowfish theme&lt;/a&gt;.&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -96,7 +96,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
     </item>
     
   </channel>

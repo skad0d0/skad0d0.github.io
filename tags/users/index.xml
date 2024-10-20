@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Users on Bowen Zhang</title>
-    <link>//localhost:1313/tags/users/</link>
+    <link>http://localhost:1313/tags/users/</link>
     <description>Recent content in Users on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/users/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/users/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Users</title>
-      <link>//localhost:1313/users/users/</link>
+      <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/users/</guid>
-      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/users/users/</guid>
+      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
 
   
 
@@ -54,11 +54,11 @@
     
     <item>
       <title>Users</title>
-      <link>//localhost:1313/users/</link>
+      <link>http://localhost:1313/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/</guid>
-      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/users/</guid>
+      <description>&lt;p&gt;Real websites that are built with Blowfish. Check the full list in &lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;JSON format&lt;/a&gt;.&lt;/p&gt;
 
   
 
@@ -96,11 +96,11 @@
     
     <item>
       <title>ユーザー</title>
-      <link>//localhost:1313/users/users/</link>
+      <link>http://localhost:1313/users/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/users/</guid>
-      <description>&lt;p&gt;Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一覧は &lt;a href=&#34;//localhost:1313/users/users.json&#34;&gt;JSON 形式&lt;/a&gt; で閲覧可能です。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/users/users/</guid>
+      <description>&lt;p&gt;Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一覧は &lt;a href=&#34;http://localhost:1313/users/users.json&#34;&gt;JSON 形式&lt;/a&gt; で閲覧可能です。&lt;/p&gt;</description>
       
     </item>
     

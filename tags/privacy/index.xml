@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy on Bowen Zhang</title>
-    <link>//localhost:1313/tags/privacy/</link>
+    <link>http://localhost:1313/tags/privacy/</link>
     <description>Recent content in Privacy on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partials</title>
-      <link>//localhost:1313/docs/partials/</link>
+      <link>http://localhost:1313/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/docs/partials/</guid>
+      <guid>http://localhost:1313/docs/partials/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics 
     &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -27,15 +27,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Blowfish provides built-in support for Fathom Analytics, Google Analytics and Umami Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/docs/partials/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>//localhost:1313/samples/rich-content/</link>
+      <link>http://localhost:1313/samples/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/samples/rich-content/</guid>
+      <guid>http://localhost:1313/samples/rich-content/</guid>
       <description>This is an &lt;em&gt;example&lt;/em&gt; of a &lt;strong&gt;rich&lt;/strong&gt; content summary.</description>
       
     </item>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Template on Bowen Zhang</title>
-    <link>//localhost:1313/tags/template/</link>
+    <link>http://localhost:1313/tags/template/</link>
     <description>Recent content in Template on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Tue, 22 Dec 1987 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/template/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 1987 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/template/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recipe Template</title>
-      <link>//localhost:1313/guides/template/</link>
+      <link>http://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/guides/template/</guid>
+      <guid>http://localhost:1313/guides/template/</guid>
       <description>&lt;p&gt;Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.&lt;/p&gt;
 
 
@@ -30,7 +30,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/guides/template/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />
     </item>
     
   </channel>

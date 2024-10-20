@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organization Site on Bowen Zhang</title>
-    <link>//localhost:1313/tags/organization-site/</link>
+    <link>http://localhost:1313/tags/organization-site/</link>
     <description>Recent content in Organization Site on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <atom:link href="//localhost:1313/tags/organization-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/organization-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ciicadalab.github.io</title>
-      <link>//localhost:1313/users/ciicadalab.github.io/</link>
+      <link>http://localhost:1313/users/ciicadalab.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/ciicadalab.github.io/</guid>
+      <guid>http://localhost:1313/users/ciicadalab.github.io/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/ciicadalab.github.io/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/ciicadalab.github.io/feature.jpg" />
     </item>
     
     <item>
       <title>jam.dsg.li</title>
-      <link>//localhost:1313/users/jam.dsg.li/</link>
+      <link>http://localhost:1313/users/jam.dsg.li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/jam.dsg.li/</guid>
+      <guid>http://localhost:1313/users/jam.dsg.li/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/jam.dsg.li/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/jam.dsg.li/feature.jpg" />
     </item>
     
     <item>
       <title>50-nuances-octets.fr</title>
-      <link>//localhost:1313/users/50-nuances-octets.fr/</link>
+      <link>http://localhost:1313/users/50-nuances-octets.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>//localhost:1313/users/50-nuances-octets.fr/</guid>
+      <guid>http://localhost:1313/users/50-nuances-octets.fr/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/50-nuances-octets.fr/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/50-nuances-octets.fr/feature.jpg" />
     </item>
     
   </channel>
