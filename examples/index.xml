@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Showcase on Bowen Zhang</title>
-    <link>http://localhost:1313/examples/</link>
+    <link>//localhost:1313/examples/</link>
     <description>Recent content in Showcase on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/examples/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showcase</title>
-      <link>http://localhost:1313/examples/_index.it/</link>
+      <link>//localhost:1313/examples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/_index.it/</guid>
+      <guid>//localhost:1313/examples/_index.it/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
 &lt;/div&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>http://localhost:1313/examples/_index.zh-cn/</link>
+      <link>//localhost:1313/examples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/_index.zh-cn/</guid>
+      <guid>//localhost:1313/examples/_index.zh-cn/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   See what&amp;rsquo;s possible with Blowfish.
 &lt;/div&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>ショーケース</title>
-      <link>http://localhost:1313/examples/_index.ja/</link>
+      <link>//localhost:1313/examples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/_index.ja/</guid>
+      <guid>//localhost:1313/examples/_index.ja/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Blowfish で何が出来るか見てみる。
 &lt;/div&gt;

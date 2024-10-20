@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish Tutorial on Bowen Zhang</title>
-    <link>http://localhost:1313/examples/blowfish-tutorial/</link>
+    <link>//localhost:1313/examples/blowfish-tutorial/</link>
     <description>Recent content in Blowfish Tutorial on Bowen Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bowen.zhang0824@gmail.com (Bowen Zhang)</managingEditor>
     <webMaster>bowen.zhang0824@gmail.com (Bowen Zhang)</webMaster>
     <copyright>© 2024 Bowen Zhang</copyright>
-    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/examples/blowfish-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/examples/blowfish-tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowfish Tutorial</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.it/</link>
+      <link>//localhost:1313/examples/blowfish-tutorial/_index.it/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.it/</guid>
+      <guid>//localhost:1313/examples/blowfish-tutorial/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Tutorial</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
+      <link>//localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
+      <guid>//localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish チュートリアル</title>
-      <link>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
+      <link>//localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <author>bowen.zhang0824@gmail.com (Bowen Zhang)</author>
-      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
+      <guid>//localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
       <description></description>
       
     </item>
